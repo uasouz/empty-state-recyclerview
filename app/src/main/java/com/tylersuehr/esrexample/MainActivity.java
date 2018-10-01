@@ -1,6 +1,6 @@
 package com.tylersuehr.esrexample;
 import android.os.Handler;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import com.tylersuehr.esr.ContentItemLoadingStateFactory;
 import com.tylersuehr.esr.EmptyStateRecyclerView;
